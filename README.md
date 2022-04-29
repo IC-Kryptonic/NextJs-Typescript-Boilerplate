@@ -1,3 +1,14 @@
+# Boilerplate Repo
+
+Includes:
+
+- React Typescript
+- NextJs
+- HeadlessUI
+- TailwindCSS
+- DFX
+- Prettier
+
 # Setup
 
 1. Install dependencies: `npm install`
